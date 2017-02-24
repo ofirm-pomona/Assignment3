@@ -1,0 +1,10 @@
+User{id='305344', ratingCount=1757}
+User{id='387418', ratingCount=1744}
+User{id='2439493', ratingCount=1640}
+User{id='1664010', ratingCount=1535}
+User{id='2118461', ratingCount=1481}
+User{id='1461435', ratingCount=987}
+User{id='1639792', ratingCount=985}
+User{id='1314869', ratingCount=965}
+User{id='2606799', ratingCount=912}
+User{id='1114324', ratingCount=876}

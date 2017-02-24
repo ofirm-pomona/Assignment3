@@ -1,0 +1,10 @@
+Movie{id='3033', rating=4.5, name='2005,Ghost in the Shell: Stand Alone Complex: 2nd Gig'}
+Movie{id='12293', rating=4.464598, name='1972,The Godfather'}
+Movie{id='16147', rating=4.4228187, name='1999,The Sopranos: Season 1'}
+Movie{id='14283', rating=4.4186187, name='1994,The Best of Friends: Vol. 3'}
+Movie{id='1256', rating=4.4148307, name='1994,The Best of Friends: Vol. 4'}
+Movie{id='5760', rating=4.41069, name='2001,The Sopranos: Season 3'}
+Movie{id='7569', rating=4.3838863, name='2004,Dead Like Me: Season 2'}
+Movie{id='4238', rating=4.3728223, name='2000,Inu-Yasha'}
+Movie{id='14648', rating=4.3528843, name='2003,Finding Nemo (Full-screen)'}
+Movie{id='3290', rating=4.339868, name='1974,The Godfather, Part II'}
